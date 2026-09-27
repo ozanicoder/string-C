@@ -1,0 +1,7 @@
+strlen é a função que permite saber qual é o tamanho de uma string
+  |
+ \|/
+     = STR (STRing) + LEN(LENgth);
+
+    Sintaxe:
+	size_t strlen(char *str);

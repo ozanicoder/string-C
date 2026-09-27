@@ -1,0 +1,7 @@
+strcat é a função que permite colar o valor de uma string ao valor de outra, atualizando assim o conteúdo da string.
+  |
+ \|/
+     = STR (string ) + CAT(concatenate);
+
+     Sintaxe:
+	char strcat(*dest, *src);

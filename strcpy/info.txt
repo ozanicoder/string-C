@@ -1,0 +1,7 @@
+strcpy é a função que permite copiar o conteudo de uma string para outra, ou seja, atribui o valor de uma string à outra.
+   |
+  \ /
+       = STR (STRing) + CPY (CoPY); 
+
+    Sintaxe:
+	char strcpy(*dest, *srt);

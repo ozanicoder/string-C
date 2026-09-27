@@ -1,0 +1,10 @@
+strcmp é a função que permite comparar os valores de duas strings. quando as strings são iguais ele retorna 0;
+ |
+\|/
+    = STR (STRing) + CMP (CoMPare);
+
+     Sintaxe:
+	strcmp(*str1, *str2); || int strncmp(const char *str1, const char *str2, size_t n);
+
+
+	
